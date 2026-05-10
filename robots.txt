@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Kimhoogli.github.io/resources-7ydwvc/sitemap.xml
